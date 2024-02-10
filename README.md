@@ -1,4 +1,4 @@
-# CreditCurator 💸
+# Credit Curator 💸
 CreditCurator recommends the optimal credit card tailored to your spending habits and credit situation by leveraging a meticulously curated dataset of the top credit cards offered by over 10 of the biggest banks in the US.
 
 ## Overview
