@@ -10,11 +10,11 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Open+Sans&display=swap" rel="stylesheet">
                     
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="css/bootstrap-icons.css" rel="stylesheet">
+    <link href="static/css/bootstrap-icons.css" rel="stylesheet">
 
-    <link href="css/style.css" rel="stylesheet">    
+    <link href="static/css/style.css" rel="stylesheet">    
 </head>
 <body>
     <body id="top">
@@ -56,7 +56,7 @@
             </nav>
             
     <div class="form-container">
-        <form id="credit-card-form">
+        <form id="credit-card-form" method='post' action="http://creditcurator.s3-website-us-east-1.amazonaws.com/" enctype = "multipart/form-data">
             <h1>Find Your Perfect Credit Card</h1>
             
             <label for="isStudent">Are you a student?</label>
