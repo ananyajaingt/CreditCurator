@@ -12,7 +12,7 @@ CreditCurator is your personalized guide to finding the perfect credit card. Wit
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript - For crafting a responsive and interactive web interface.
 - **Data Handling**: CSV - Our curated datasets are stored in CSV format, enabling easy manipulation and access to credit card data.
-- **Backend Processing**: JavaScript - Used to develop the algorithm that analyzes user input against the dataset to provide personalized credit card recommendations.
+- **Backend Processing**: Python - Used to develop the algorithm that analyzes user input against the dataset to provide personalized credit card recommendations.
 
 ## How It Works
 - **Data Collection** : We've compiled detailed information on credit card offers from over 10 leading US banks.
