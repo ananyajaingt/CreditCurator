@@ -4,6 +4,8 @@ CreditCurator recommends the optimal credit card tailored to your spending habit
 ## Overview
 CreditCurator is your personalized guide to finding the perfect credit card. With a dataset from the top US banks, our platform analyzes credit card features to match you with the best card based on your spending habits and credit needs. Utilizing HTML, CSS, and JavaScript, CreditCurator offers a user-friendly interface for a seamless recommendation experience. Dive into CreditCurator to optimize your rewards and make informed credit card choices effortlessly.
 
+Find us here https://creditcurator.s3.amazonaws.com/index.html
+
 ## Features
 - **Comprehensive Dataset** : Our dataset includes top credit card offers, categorized by cash backs, points on various spending categories such as gas, travel, groceries, and dining, as well as APR, required credit score, and additional perks.
 - **Personalized Recommendations** : By analyzing your responses to our questions, our algorithm identifies the credit card that best fits your unique spending profile and credit status.
